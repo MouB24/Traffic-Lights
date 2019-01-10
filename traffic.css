@@ -1,0 +1,21 @@
+.container{
+    background: #000;
+    width: 132px;
+    height: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+  }
+  .light{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    opacity: 2.3;
+    padding: 10px;
+    border: 2px solid white;
+    margin: auto;
+  }
+  .light-visible {opacity: 1;}
+  #red {background-color: red;}
+  #yellow {background-color: #e6e600;}
+  #green {background-color: #27e833;}
